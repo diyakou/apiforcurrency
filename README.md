@@ -33,5 +33,6 @@ API را می‌توان با یک درخواست get HTTP به آدرس `/rate`
 
 آماده اتصال و مکالمه هستم! به من در شبکه های اجتماعی زیر پیوست کنید:
 
-[![Instagram]<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/256px-Instagram_icon.png" width:"25px" height:"25px" >](https://www.instagram.com/fullstackcoding.ir)
-[![Telegram<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Telegram_blue_icon.png" width:"25px" height:"25px" >]](https://t.me/diakoscorpion)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/256px-Instagram_icon.png" width:"25px" height:"25px" >
+https://www.instagram.com/fullstackcoding.ir
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Telegram_blue_icon.png" width:"25px" height:"25px" >
