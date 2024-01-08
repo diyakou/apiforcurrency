@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# API دریافت نرخ ارز با Python
 
-## Getting Started
+این ریپازیتوری شامل یک API ساده نوشته شده با Python است که نرخ ارز را از یک سرویس آنلاین دریافت می‌کند.
 
-First, run the development server:
+## نحوه راه‌اندازی
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+برای شروع استفاده از این API، مراحل زیر را دنبال کنید:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. این ریپازیتوری را `clone` کنید.
+2. وابستگی‌ها را با اجرای `pip install -r requirements.txt` نصب کنید.
+3. API را با اجرای `uvicorn main:app --reload` راه‌اندازی کنید.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## استفاده از API
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+API را می‌توان با یک درخواست get HTTP به آدرس `/rate` فرا خوانی کرد.
 
-## Learn More
+## نمونه پروژه با Next.js
 
-To learn more about Next.js, take a look at the following resources:
+در این ریپازیتوری، یک مثال Next.js نیز وجود دارد که نشان می‌دهد چگونه می‌توان از API فوق برای نمایش نرخ ارز استفاده کرد.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### راه‌اندازی نمونه
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+برای استفاده از نمونه Next.js، مراحل زیر را دنبال کنید:
 
-## Deploy on Vercel
+1. به پوشه‌ `example-nextjs` بروید.
+2. با اجرای `npm install` وابستگی‌ها را نصب کنید.
+3. با اجرای `npm run dev` اپلیکیشن را راه‌اندازی کنید.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+از علاقه و پشتیبانی شما سپاسگزارم!
+# شبکه های اجتماعی
+
+آماده اتصال و مکالمه هستم! به من در شبکه های اجتماعی زیر پیوست کنید:
+
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/fullstackcoding.ir)
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/f/fd/Telegram_blue_icon.png)](https://t.me/diakoscorpion)
