@@ -37,9 +37,9 @@ API را می‌توان با یک درخواست get HTTP به آدرس `/curre
 <a href="https://zarinp.al/codehami"><span style="color: 'green'">حمایت </span></a>
 # شبکه های اجتماعی
 
-آماده اتصال و مکالمه هستم! به من در شبکه های اجتماعی زیر پیوست کنید:
+آماده همکاری و مکالمه هستم! به من در شبکه های اجتماعی زیر پیوست کنید:
 
-<a href="https://instagram.com/fullstackcoding.ir"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" align="left" height="48" width="48" ></a>
+<a href="https://instagram.com/webdops"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" align="left" height="48" width="48" ></a>
 
 <a href="https://t.me/diyakoscorpion"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Telegram_blue_icon.png" align="left" height="48" width="48" ></a>
 
